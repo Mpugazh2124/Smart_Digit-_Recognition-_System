@@ -1,0 +1,14 @@
+.env
+emnist_balanced_model.h5
+emnist-balanced-mapping.txt
+emnist-balanced-test-images-idx3-ubyte
+emnist-balanced-test-labels-idx1-ubyte
+emnist-balanced-train-images-idx3-ubyte
+emnist-balanced-train-labels-idx1-ubyte
+mnist_test.csv
+mnist_train.csv
+schema.sql
+Procfile
+mnist_model.h5
+input_check.png
+venv/
